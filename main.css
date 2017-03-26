@@ -1,0 +1,33 @@
+
+html {
+
+	background-color: #CAE5FC;
+}
+
+.search-form-title {
+
+	font-size: 18px;
+}
+
+.search-form {
+
+	padding: 20px;
+	text-align: center;
+}
+
+.search-input {
+
+	margin-right: 15px;
+
+}
+
+.page-title {
+
+	font-size: 32px;
+	text-align: center;
+}
+
+.thumbnails-grid {
+
+	text-align: center;
+}
